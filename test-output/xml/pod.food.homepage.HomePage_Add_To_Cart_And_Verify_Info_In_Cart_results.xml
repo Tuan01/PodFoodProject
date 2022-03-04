@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on chrome"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="32.819">
+  <properties />
+  
+  
+            <testcase name="HomePage_01_Check_correctness_of_searching_product" time="16.317" classname="pod.food.homepage.HomePage_Add_To_Cart_And_Verify_Info_In_Cart" />
+                <testcase name="HomePage_03_Verify_all_information_in_cart_page" time="9.085" classname="pod.food.homepage.HomePage_Add_To_Cart_And_Verify_Info_In_Cart" />
+                <testcase name="HomePage_02_Verify_information_of_product_in_cart_popper" time="7.417" classname="pod.food.homepage.HomePage_Add_To_Cart_And_Verify_Info_In_Cart" />
+      
+</testsuite>

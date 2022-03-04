@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="PopFood Web"  thread-count="2">
+
+	<parameter name="url" value="https://beta.podfoods.co/" />
+
+	<listeners>
+		 <listener class-name="commons.MethodListener"/>
+		 <listener class-name="reportConfig.ExtendReportListener"/>
+		 <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+         <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+	</listeners>
+		
+	<test name="Run on chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="pod.food.homepage.HomePage_Add_To_Cart_And_Verify_Info_In_Cart"/>
+		</classes>
+	</test>
+
+</suite> 

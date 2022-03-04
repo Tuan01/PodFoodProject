@@ -1,0 +1,925 @@
+[INFO ] [2022-03-03 00:46:49,353] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 00:46:50,015] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 00:46:50,453] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 00:46:50,837] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 00:46:51,141] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 00:46:51,444] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 00:46:52,871] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 00:47:03,165] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 00:47:03,808] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 00:47:04,008] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 00:47:04,701] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 00:47:04,847] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 00:47:04,969] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 00:47:05,879] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 00:47:06,375] OS name = mac os x
+[INFO ] [2022-03-03 00:47:06,718] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-03 11:14:51,506] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 11:14:52,160] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 11:14:52,752] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 11:14:53,054] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 11:14:53,206] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 11:14:53,453] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 11:14:55,013] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 11:15:05,377] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 11:15:05,923] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 11:15:06,113] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 11:15:07,245] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 11:15:07,394] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 11:15:07,607] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 11:15:08,570] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 11:15:08,736] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 11:15:09,576] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 11:15:15,057] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 11:15:15,228] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 11:15:15,312] Home Page - Step 03: Verify order value displayed
+[INFO ] [2022-03-03 11:15:15,396] OS name = mac os x
+[INFO ] [2022-03-03 11:15:15,794] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-03 11:18:52,264] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 11:18:53,103] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 11:18:53,629] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 11:18:53,832] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 11:18:53,990] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 11:18:54,188] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 11:18:55,428] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 11:19:05,729] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 11:19:06,211] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 11:19:06,373] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 11:19:14,984] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 11:19:15,135] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 11:19:15,240] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 11:19:16,296] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 11:19:16,436] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 11:19:17,660] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 11:19:23,098] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 11:19:23,268] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 11:19:23,335] Home Page - Step 03: Verify order value displayed
+[INFO ] [2022-03-03 11:20:23,459] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 11:20:24,047] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 11:20:24,436] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 11:20:24,662] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 11:20:24,767] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 11:20:24,935] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 11:20:26,396] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 11:20:36,710] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 11:20:37,170] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 11:20:37,329] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 11:20:38,065] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 11:20:38,191] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 11:20:38,316] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 11:20:39,459] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 11:20:39,596] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 11:20:40,362] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 11:20:45,732] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 11:20:45,904] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 11:20:45,964] Home Page - Step 03: Verify order value displayed
+[INFO ] [2022-03-03 15:23:55,855] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 15:23:56,508] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 15:23:57,220] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 15:23:57,555] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 15:23:57,857] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 15:23:58,026] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 15:23:59,304] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 15:24:09,634] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 15:24:10,335] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 15:24:10,553] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 15:24:11,191] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 15:24:11,376] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 15:24:11,525] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 15:24:12,809] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 15:24:12,986] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 15:24:13,866] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 15:24:19,473] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 15:24:19,661] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 15:24:19,744] Home Page - Step 03: Verify order value displayed
+[INFO ] [2022-03-03 15:25:10,733] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 15:25:11,674] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 15:25:12,308] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 15:25:12,797] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 15:25:13,007] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 15:25:13,175] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 15:25:14,743] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 15:25:25,038] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 15:25:25,677] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 15:25:25,915] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 15:25:26,506] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 15:25:26,760] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 15:25:26,943] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 15:25:27,874] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 15:25:28,093] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 15:25:28,885] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 15:25:34,429] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 15:25:34,631] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 15:25:34,730] Home Page - Step 03: Verify order value displayed
+[INFO ] [2022-03-03 15:29:29,368] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 15:29:30,002] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 15:29:30,619] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 15:29:31,133] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 15:29:31,397] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 15:29:31,650] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 15:29:33,219] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 15:29:43,531] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 15:29:44,157] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 15:29:44,395] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 15:29:44,964] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 15:29:45,224] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 15:29:45,453] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 15:29:46,458] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 15:29:46,654] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 15:29:47,503] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 15:29:53,119] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 15:29:53,377] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 15:29:53,525] Home Page - Step 03: Verify order value displayed
+[INFO ] [2022-03-03 15:33:17,126] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 15:33:17,551] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 15:33:17,974] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 15:33:18,223] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 15:33:18,410] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 15:33:18,550] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 15:33:19,722] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 15:33:30,052] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 15:33:30,546] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 15:33:30,722] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 15:33:31,923] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 15:33:32,074] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 15:33:32,199] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 15:33:33,104] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 15:33:33,437] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 15:33:34,177] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 15:33:39,554] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 15:33:39,772] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 15:33:39,838] Home Page - Step 03: Verify order value displayed
+[INFO ] [2022-03-03 15:45:51,640] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 15:45:52,166] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 15:45:52,686] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 15:45:53,108] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 15:45:53,315] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 15:45:53,441] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 15:45:55,015] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 15:46:05,304] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 15:46:05,823] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 15:46:05,999] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 15:46:07,048] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 15:46:07,205] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 15:46:07,372] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 15:46:08,353] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 15:46:08,541] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 15:46:09,384] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 15:46:14,801] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 15:46:15,037] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 15:46:15,103] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 15:46:15,172] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 15:46:15,228] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 15:46:15,320] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 15:46:15,433] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 16:22:15,067] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 16:22:15,819] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 16:22:16,277] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 16:22:16,665] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 16:22:16,813] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 16:22:16,971] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 16:22:18,306] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 16:22:28,582] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 16:22:29,246] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 16:22:29,479] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 16:22:30,089] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 16:22:30,377] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 16:22:30,737] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 16:22:31,542] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 16:22:31,698] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 16:22:32,537] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 16:22:38,099] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 16:22:38,279] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 16:22:38,340] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 16:22:38,404] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 16:22:38,457] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 16:22:38,550] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 16:22:38,670] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 16:22:38,789] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 16:22:38,849] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 16:22:38,901] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 17:26:30,924] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 17:26:31,616] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 17:26:32,178] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 17:26:32,582] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 17:26:32,904] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 17:26:33,091] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 17:26:34,543] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 17:26:44,891] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 17:26:45,637] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 17:26:45,842] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 17:26:46,700] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 17:26:46,929] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 17:26:47,097] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 17:26:48,033] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 17:26:48,264] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 17:26:49,016] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 17:26:54,544] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 17:26:54,720] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 17:26:54,797] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 17:26:54,864] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 17:26:54,931] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 17:26:55,043] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 17:26:55,156] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 17:26:55,278] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 17:26:55,356] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 17:26:55,417] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 17:27:00,718] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-03 17:27:00,940] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-03 17:27:01,878] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-03 17:27:01,942] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 17:27:01,997] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:08:52,420] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 23:08:52,941] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 23:08:53,478] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 23:08:53,799] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 23:08:54,185] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 23:08:54,344] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 23:08:55,529] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 23:09:05,878] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 23:09:06,452] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 23:09:06,623] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 23:09:07,303] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 23:09:07,481] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 23:09:07,758] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 23:09:08,679] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 23:09:08,854] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 23:09:09,781] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 23:09:15,174] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 23:09:15,365] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 23:09:15,466] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 23:09:15,535] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 23:09:15,596] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 23:09:15,698] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 23:09:15,835] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 23:09:15,978] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 23:09:16,037] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 23:09:16,089] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 23:09:21,384] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-03 23:09:21,566] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-03 23:09:22,049] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-03 23:09:22,109] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:09:22,175] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:12:20,816] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 23:12:21,301] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 23:12:21,845] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 23:12:22,090] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 23:12:22,608] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 23:12:22,807] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 23:12:24,274] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 23:12:34,599] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 23:12:35,062] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 23:12:35,217] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 23:12:36,082] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 23:12:36,220] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 23:12:36,354] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 23:12:37,247] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 23:12:37,373] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 23:12:38,173] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 23:12:43,639] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 23:12:43,816] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 23:12:43,885] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 23:12:43,961] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 23:12:44,019] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 23:12:44,120] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 23:12:44,252] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 23:12:44,466] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 23:12:44,535] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 23:12:44,589] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 23:12:50,003] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-03 23:12:50,179] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-03 23:12:51,309] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-03 23:12:51,367] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:12:51,451] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:23:19,568] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 23:23:20,165] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 23:23:20,861] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 23:23:21,395] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 23:23:21,612] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 23:23:21,761] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 23:23:23,248] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 23:23:33,493] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 23:23:34,235] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 23:23:34,400] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 23:23:35,018] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 23:23:35,177] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 23:23:35,398] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 23:23:36,333] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 23:23:36,476] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 23:23:37,357] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 23:23:42,944] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 23:23:43,244] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 23:23:43,318] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 23:23:43,375] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 23:23:43,432] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 23:23:43,534] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 23:23:43,643] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 23:23:43,820] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 23:23:43,879] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 23:23:43,942] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 23:23:49,220] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-03 23:23:49,418] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-03 23:23:50,400] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-03 23:23:50,472] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:23:50,536] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:46:36,165] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 23:46:36,961] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 23:46:37,502] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 23:46:37,967] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 23:46:38,119] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 23:46:38,353] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 23:46:40,465] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 23:46:50,942] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 23:46:51,657] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 23:46:52,043] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 23:46:53,169] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 23:46:53,405] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 23:46:53,610] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 23:46:54,504] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 23:46:54,663] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 23:46:55,475] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 23:47:00,898] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 23:47:01,073] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 23:47:01,161] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 23:47:01,241] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 23:47:01,302] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 23:47:01,446] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 23:47:01,577] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 23:47:01,758] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 23:47:01,821] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 23:47:01,893] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 23:47:07,237] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-03 23:47:08,032] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-03 23:47:09,226] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-03 23:47:09,461] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:47:09,586] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:49:03,432] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 23:49:03,933] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 23:49:04,384] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 23:49:04,644] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 23:49:04,871] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 23:49:04,993] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 23:49:06,423] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 23:49:16,760] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 23:49:17,277] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 23:49:17,434] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 23:49:18,050] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 23:49:18,198] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 23:49:18,383] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 23:49:19,283] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 23:49:19,409] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 23:49:20,568] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 23:49:26,055] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 23:49:26,238] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 23:49:26,299] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 23:49:26,357] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 23:49:26,406] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 23:49:26,500] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 23:49:26,606] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 23:49:26,807] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 23:49:26,887] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 23:49:26,959] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 23:49:32,256] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-03 23:49:32,450] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-03 23:49:33,389] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-03 23:49:33,438] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:49:33,494] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:59:05,611] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-03 23:59:06,339] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-03 23:59:06,870] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-03 23:59:07,199] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-03 23:59:07,432] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-03 23:59:07,599] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-03 23:59:08,995] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-03 23:59:19,331] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-03 23:59:19,903] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-03 23:59:20,090] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-03 23:59:20,695] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-03 23:59:20,900] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-03 23:59:21,054] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-03 23:59:21,951] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-03 23:59:22,112] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-03 23:59:22,888] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-03 23:59:28,429] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-03 23:59:28,610] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-03 23:59:28,680] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-03 23:59:28,755] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-03 23:59:28,861] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-03 23:59:28,985] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-03 23:59:29,110] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-03 23:59:29,232] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-03 23:59:29,292] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-03 23:59:29,346] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-03 23:59:34,637] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-03 23:59:34,816] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-03 23:59:35,767] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-03 23:59:35,914] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-03 23:59:36,001] Home Page - Step 03: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 11:50:10,620] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 11:50:11,204] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 11:50:11,686] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 11:50:11,962] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 11:54:02,965] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 11:54:03,678] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 11:54:04,144] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 11:54:04,447] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 11:54:04,651] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 11:54:04,811] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 11:54:06,058] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 11:54:16,410] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 11:54:16,644] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 11:55:22,145] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 11:55:22,396] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 11:55:22,702] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 11:55:24,083] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 11:55:24,200] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 11:55:24,258] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 11:55:25,697] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 11:55:25,849] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 11:55:26,678] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 11:55:31,805] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 11:55:37,055] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 11:56:37,144] OS name = mac os x
+[INFO ] [2022-03-04 11:56:37,673] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 11:59:54,634] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 11:59:55,217] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 11:59:55,676] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 11:59:55,938] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 11:59:56,073] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 11:59:56,285] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 11:59:57,627] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 12:00:08,128] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 12:00:08,394] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 12:00:08,580] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 12:00:09,379] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 12:00:09,548] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 12:00:09,714] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 12:00:10,717] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 12:00:10,850] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 12:00:11,616] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 12:00:17,082] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 12:00:17,335] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 12:00:17,398] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:00:17,455] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 12:00:17,522] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 12:00:17,640] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 12:00:17,767] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 12:00:17,890] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 12:00:17,952] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 12:00:18,016] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 12:00:23,307] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 12:00:23,612] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 12:00:24,645] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 12:00:24,772] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 12:00:24,976] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 12:00:25,059] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 12:00:25,143] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:00:25,228] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 12:00:25,321] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:00:25,389] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 12:00:25,493] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:00:25,597] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 12:00:25,757] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 12:00:26,410] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 12:00:26,554] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 12:00:26,892] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 12:00:26,958] OS name = mac os x
+[INFO ] [2022-03-04 12:00:27,194] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 12:05:14,835] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 12:05:15,347] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 12:05:15,935] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 12:05:16,170] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 12:05:16,368] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 12:05:16,487] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 12:05:17,669] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 12:05:27,924] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 12:05:28,237] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 12:05:28,399] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 12:05:29,304] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 12:05:29,438] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 12:05:29,551] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 12:05:30,514] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 12:05:30,643] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 12:05:31,525] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 12:05:36,984] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 12:05:37,226] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 12:05:37,292] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:05:37,360] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 12:05:37,414] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 12:05:37,512] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 12:05:37,626] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 12:05:37,738] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 12:05:37,794] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 12:05:37,840] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 12:05:43,191] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 12:05:43,362] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 12:05:44,325] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 12:05:44,373] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 12:05:44,427] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 12:05:44,476] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 12:05:44,524] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:05:44,599] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 12:05:44,652] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:05:44,708] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 12:05:44,760] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:05:44,816] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 12:05:44,893] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 12:05:45,252] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 12:05:45,299] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 12:05:45,468] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 12:05:45,548] OS name = mac os x
+[INFO ] [2022-03-04 12:05:45,828] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 12:17:25,423] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 12:17:25,839] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 12:17:26,502] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 12:17:26,832] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 12:17:26,944] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 12:17:27,113] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 12:17:28,363] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 12:17:38,621] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 12:17:38,822] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 12:17:38,989] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 12:17:39,817] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 12:17:39,978] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 12:17:40,104] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 12:17:41,222] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 12:17:41,367] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 12:17:42,333] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 12:17:47,752] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 12:17:47,974] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 12:17:48,033] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:17:48,099] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 12:17:48,177] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 12:17:48,278] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 12:17:48,380] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 12:17:48,481] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 12:17:48,549] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 12:17:48,600] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 12:17:53,847] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 12:17:54,040] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 12:17:55,020] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 12:17:55,067] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 12:17:55,118] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 12:17:55,164] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 12:17:55,212] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:17:55,284] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 12:17:55,343] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:17:55,398] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 12:17:55,447] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:17:55,493] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 12:17:55,556] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 12:17:55,878] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 12:17:55,935] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 12:17:56,095] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 12:17:56,149] OS name = mac os x
+[INFO ] [2022-03-04 12:17:56,423] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 12:21:18,928] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 12:21:19,776] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 12:21:20,291] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 12:21:20,531] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 12:21:20,774] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 12:21:20,994] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 12:21:22,732] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 12:21:33,101] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 12:21:33,375] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 12:21:33,550] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 12:21:34,608] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 12:21:34,792] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 12:21:34,938] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 12:21:35,906] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 12:21:36,044] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 12:21:36,951] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 12:21:42,387] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 12:21:42,646] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 12:21:42,705] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:21:42,769] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 12:21:42,823] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 12:21:42,949] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 12:21:43,061] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 12:21:43,174] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 12:21:43,237] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 12:21:43,290] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 12:21:48,569] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 12:21:48,771] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 12:21:49,712] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 12:21:49,769] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 12:21:49,833] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 12:21:49,890] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 12:21:49,968] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:21:50,038] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 12:21:50,102] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:21:50,155] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 12:21:50,227] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:21:50,292] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 12:21:50,351] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 12:21:50,711] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 12:21:50,769] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 12:21:50,943] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 12:21:51,024] OS name = mac os x
+[INFO ] [2022-03-04 12:21:51,311] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 12:31:24,347] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 12:31:24,859] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 12:31:25,351] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 12:31:25,556] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 12:31:25,750] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 12:31:25,971] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 12:31:27,120] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 12:31:37,431] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 12:31:37,656] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 12:31:37,815] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 12:31:38,590] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 12:31:38,724] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 12:31:38,856] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 12:31:39,755] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 12:31:39,905] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 12:31:40,713] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 12:31:46,134] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 12:31:46,362] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 12:31:46,426] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:31:46,514] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 12:31:46,576] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 12:31:46,663] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 12:31:46,764] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 12:31:46,883] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 12:31:46,943] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 12:31:46,989] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 12:31:52,254] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 12:31:52,425] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 12:31:53,353] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 12:31:53,406] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 12:31:53,453] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 12:31:53,509] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 12:31:53,559] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:31:53,629] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 12:31:53,679] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:31:53,743] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 12:31:53,796] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:31:53,853] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 12:31:53,939] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 12:31:54,306] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 12:31:54,362] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 12:31:54,568] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 12:31:54,637] OS name = mac os x
+[INFO ] [2022-03-04 12:31:54,916] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 12:35:10,475] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 12:35:10,826] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 12:35:11,272] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 12:35:11,570] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 12:35:11,845] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 12:35:11,983] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 12:35:13,242] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 12:35:23,577] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 12:35:23,765] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 12:35:23,924] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 12:35:24,756] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 12:35:24,924] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 12:35:25,104] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 12:35:25,996] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 12:35:26,137] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 12:35:26,913] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 12:35:32,289] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 12:35:32,537] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 12:35:32,623] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:35:32,681] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 12:35:32,749] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 12:35:32,909] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 12:35:33,027] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 12:35:33,131] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 12:35:33,190] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 12:35:33,240] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 12:35:38,474] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 12:35:38,637] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 12:35:39,587] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 12:35:39,639] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 12:35:39,685] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 12:35:39,734] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 12:35:39,780] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:35:39,845] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 12:35:39,902] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 12:35:39,950] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 12:35:40,006] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 12:35:40,062] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 12:35:40,128] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 12:35:40,457] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 12:35:40,502] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 12:35:40,663] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 12:35:40,748] OS name = mac os x
+[INFO ] [2022-03-04 12:35:40,993] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 13:12:12,441] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 13:12:13,252] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 13:12:13,848] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 13:12:14,380] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 13:12:14,679] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 13:12:15,072] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 13:12:16,439] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 13:12:26,788] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 13:12:27,096] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 13:12:27,318] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 13:12:28,244] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 13:12:28,438] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 13:12:28,625] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 13:12:29,489] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 13:12:29,630] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 13:12:30,832] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 13:12:36,412] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 13:12:36,612] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 13:12:36,714] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:12:36,778] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 13:12:36,845] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 13:12:36,992] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 13:12:37,112] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 13:12:37,247] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 13:12:37,340] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 13:12:37,392] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 13:12:42,698] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 13:12:42,951] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 13:12:43,917] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 13:12:43,969] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 13:12:44,034] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 13:12:44,097] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 13:12:44,169] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:12:44,278] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 13:12:44,346] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:12:44,430] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 13:12:44,501] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:12:44,592] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 13:12:44,670] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 13:12:45,063] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 13:12:45,120] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 13:12:45,304] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 13:12:45,415] OS name = mac os x
+[INFO ] [2022-03-04 13:12:45,779] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 13:15:21,283] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 13:15:21,749] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 13:15:22,123] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 13:15:22,382] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 13:15:22,495] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 13:15:22,661] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 13:15:23,777] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 13:15:34,117] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 13:15:34,660] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 13:15:34,946] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 13:15:36,415] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 13:15:36,585] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 13:15:36,837] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 13:15:37,851] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 13:15:38,027] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 13:15:38,816] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 13:15:44,341] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 13:15:44,625] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 13:15:44,719] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:15:44,806] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 13:15:44,903] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 13:15:45,055] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 13:15:45,292] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 13:15:45,452] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 13:15:45,530] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 13:15:45,596] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 13:15:50,928] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 13:15:51,126] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 13:15:52,077] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 13:15:52,137] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 13:15:52,190] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 13:15:52,244] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 13:15:52,311] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:15:52,391] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 13:15:52,461] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:15:52,546] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 13:15:52,676] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:15:52,745] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 13:15:52,899] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 13:15:53,441] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 13:15:53,498] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 13:15:53,680] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 13:15:53,846] OS name = mac os x
+[INFO ] [2022-03-04 13:15:54,189] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 13:35:50,555] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 13:35:51,125] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 13:35:51,568] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 13:35:51,883] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 13:35:52,138] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 13:35:52,301] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 13:35:53,545] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 13:36:03,879] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 13:36:04,138] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 13:36:04,334] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 13:36:05,183] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 13:36:05,352] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 13:36:05,555] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 13:36:06,435] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 13:36:06,571] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 13:36:07,605] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 13:36:13,097] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 13:36:13,352] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 13:36:13,468] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:36:13,585] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 13:36:13,640] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 13:36:13,750] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 13:36:13,882] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 13:36:14,004] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 13:36:14,065] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 13:36:14,137] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 13:36:19,470] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 13:36:19,696] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 13:36:20,698] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 13:36:20,750] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 13:36:20,804] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 13:36:20,854] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 13:36:20,905] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:36:21,005] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 13:36:21,068] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:36:21,153] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 13:36:21,224] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:36:21,281] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 13:36:21,342] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 13:36:21,779] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 13:36:21,891] OS name = mac os x
+[INFO ] [2022-03-04 13:36:22,298] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 13:42:58,003] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 13:42:58,760] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 13:42:59,318] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 13:42:59,615] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 13:42:59,792] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 13:42:59,997] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 13:43:01,365] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 13:43:11,672] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 13:43:11,926] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 13:43:12,119] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 13:43:13,225] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 13:43:13,431] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 13:43:13,653] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 13:43:14,485] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 13:43:14,649] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 13:43:15,568] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 13:43:21,133] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 13:43:21,395] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 13:43:21,476] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:43:21,533] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 13:43:21,598] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 13:43:21,766] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 13:43:21,937] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 13:43:22,082] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 13:43:22,160] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 13:43:22,228] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 13:43:27,809] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 13:43:28,219] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 13:43:28,999] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 13:43:29,065] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 13:43:29,130] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 13:43:29,185] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 13:43:29,270] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:43:29,336] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 13:43:29,411] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:43:29,486] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 13:43:29,570] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:43:29,634] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 13:43:29,701] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 13:43:30,114] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 13:43:30,229] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 13:43:30,414] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 13:43:30,495] OS name = mac os x
+[INFO ] [2022-03-04 13:43:30,769] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2022-03-04 13:53:49,402] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 13:53:50,156] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 13:53:50,886] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 13:53:51,251] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 13:53:51,439] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 13:53:51,834] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 13:53:53,294] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 13:54:03,761] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 13:54:04,264] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 13:54:04,638] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 13:54:06,703] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 13:54:06,995] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 13:54:07,119] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 13:54:08,330] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 13:54:08,631] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 13:54:09,603] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 13:54:15,427] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 13:54:15,805] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 13:54:15,907] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:54:16,032] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 13:54:16,133] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 13:54:16,406] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 13:54:16,751] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 13:54:17,020] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 13:54:17,138] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 13:54:17,268] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 13:54:22,853] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 13:54:23,252] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 13:54:24,289] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 13:54:24,392] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 13:54:24,501] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 13:54:24,609] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 13:54:24,709] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:54:24,804] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 13:54:24,942] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:54:25,074] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 13:54:25,195] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:54:25,319] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 13:54:25,471] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 13:54:26,304] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 13:54:26,400] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 13:54:26,771] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 13:54:26,938] OS name = mac os x
+[INFO ] [2022-03-04 13:54:27,307] ---------- QUIT BROWSER SUCCESS ----------

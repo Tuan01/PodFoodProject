@@ -1,0 +1,44 @@
+[INFO ] [2022-03-04 13:53:49,402] Pre-Condition - Step 01: Click to Sign Up button
+[INFO ] [2022-03-04 13:53:50,156] Pre-Condition - Step 02: Enter to Email textbox
+[INFO ] [2022-03-04 13:53:50,886] Pre-Condition - Step 03: Enter to Password textbox
+[INFO ] [2022-03-04 13:53:51,251] Pre-Condition - Step 04: Select I am a Buyer value
+[INFO ] [2022-03-04 13:53:51,439] Pre-Condition - Step 05: Click to Login button
+[INFO ] [2022-03-04 13:53:51,834] Pre-Condition - Step 06: Verify the Pop popup is displayed
+[INFO ] [2022-03-04 13:53:53,294] Pre-Condition - Step 07: Click on X button to close popup
+[INFO ] [2022-03-04 13:54:03,761] Home Page - Step 01: Enter product named 'Product exam1' into search textbox
+[INFO ] [2022-03-04 13:54:04,264] Home Page - Step 02: Click on search icon
+[INFO ] [2022-03-04 13:54:04,638] Home Page - Step 03: Verify the results search is displayed
+[INFO ] [2022-03-04 13:54:06,703] Home Page - Step 04: Click on Add to cart icon
+[INFO ] [2022-03-04 13:54:06,995] Home Page - Step 05: Verify the add to cart popup is displayed
+[INFO ] [2022-03-04 13:54:07,119] Home Page - Step 06: Enter quantity
+[INFO ] [2022-03-04 13:54:08,330] Home Page - Step 07: Click on Add to Cart in Modal Dialog
+[INFO ] [2022-03-04 13:54:08,631] Home Page - Step 08: Verify the notification of adding to cart successfully
+[INFO ] [2022-03-04 13:54:09,603] Home Page - Step 09: Click on X icon
+[INFO ] [2022-03-04 13:54:15,427] Home Page - Step 01: Hover to Cart icon
+[INFO ] [2022-03-04 13:54:15,805] Home Page - Step 02: the cart popper is displayed normally
+[INFO ] [2022-03-04 13:54:15,907] Home Page - Step 03: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:54:16,032] Home Page - Step 04: Verify the price of product is displayed correctly
+[INFO ] [2022-03-04 13:54:16,133] Home Page - Step 05: Verify the price total of product is displayed correctly
+[INFO ] [2022-03-04 13:54:16,406] Home Page - Step 06: Verify the order value is displayed correctly
+[INFO ] [2022-03-04 13:54:16,751] Home Page - Step 07: Verify the items subtotal is displayed correctly
+[INFO ] [2022-03-04 13:54:17,020] Home Page - Step 08: Verify the small order surcharge is displayed correctly
+[INFO ] [2022-03-04 13:54:17,138] Home Page - Step 09: Verify the logistics surcharge is displayed correctly
+[INFO ] [2022-03-04 13:54:17,268] Home Page - Step 10: Verify the last total price is displayed correctly
+[INFO ] [2022-03-04 13:54:22,853] Home Page - Step 01: Click on Cart button
+[INFO ] [2022-03-04 13:54:23,252] Cart Page - Step 02: Verify the cart page is displayed
+[INFO ] [2022-03-04 13:54:24,289] Cart Page - Step 03: Verify the text in pod express items is displayed
+[INFO ] [2022-03-04 13:54:24,392] Cart Page - Step 04: Verify the brand name is displayed correctly
+[INFO ] [2022-03-04 13:54:24,501] Cart Page - Step 05: Verify the product name is displayed correctly
+[INFO ] [2022-03-04 13:54:24,609] Cart Page - Step 06: Verify the sku name is displayed correctly
+[INFO ] [2022-03-04 13:54:24,709] Cart Page - Step 07: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:54:24,804] Cart Page - Step 08: Verify the id is displayed correctly
+[INFO ] [2022-03-04 13:54:24,942] Cart Page - Step 09: Verify the unit is displayed correctly
+[INFO ] [2022-03-04 13:54:25,074] Cart Page - Step 10: Verify the price is displayed correctly
+[INFO ] [2022-03-04 13:54:25,195] Cart Page - Step 11: Verify the quantity of product is displayed correctly
+[INFO ] [2022-03-04 13:54:25,319] Cart Page - Step 12: Verify the total price is displayed correctly
+[INFO ] [2022-03-04 13:54:25,471] Cart Page - Step 13: Verify info of shipping address is displayed correctly
+[INFO ] [2022-03-04 13:54:26,304] Cart Page - Step 14: Verify the message in summary checkout is displayed correctly
+[INFO ] [2022-03-04 13:54:26,400] Cart Page - Step 15: Hover to tooltip in item subtotal
+[INFO ] [2022-03-04 13:54:26,771] Cart Page - Step 16: Verify the text in tooltip is displayed correctly
+[INFO ] [2022-03-04 13:54:26,938] OS name = mac os x
+[INFO ] [2022-03-04 13:54:27,307] ---------- QUIT BROWSER SUCCESS ----------
